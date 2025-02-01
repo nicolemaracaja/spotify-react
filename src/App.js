@@ -1,6 +1,4 @@
 import React from 'react';
-import './Reset/Reset.css';
-import './Vars/Vars.css';
 import './App.css';
 import Sidebar from './Sidebar/Sidebar';
 import Header from './Header/Header';
